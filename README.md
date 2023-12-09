@@ -7,7 +7,6 @@ I am a canadian student at Franco-Cité secondary school.
 #### Communication Languagues:
 + English
 + French
-+ Spanish (barely)
 
 #### Programming Languages (in order of most comfortable to least comfortable):
 <ul>
